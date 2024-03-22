@@ -1,0 +1,19 @@
+h1,h2 {
+    color: red;
+  
+}
+
+div {
+    background-color: aqua;
+}
+#red{
+    color: white;
+    background-color: rgb(6, 6, 138);
+}
+.blue{
+    background-color: green;
+    color: yellow;
+}
+p{
+    color: purple;
+}

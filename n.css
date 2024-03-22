@@ -1,0 +1,29 @@
+
+
+  .Amir{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: ridge 20px black;
+    border-radius: 40px;
+    color: blue;
+
+
+}
+
+.hum {
+    background-color: purple;
+}
+
+.sub {
+    background-color: black;
+    height: 1500px;
+    width: 1500px;
+    margin: 50;
+    padding: 50;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: aqua;
+    border: ridge 15px red;
+
+}
